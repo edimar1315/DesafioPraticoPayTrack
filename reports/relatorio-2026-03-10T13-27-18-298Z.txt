@@ -1,0 +1,20 @@
+==============================================================
+      PAYTRACK — RELATÓRIO DE SINCRONIZAÇÃO DE USUÁRIOS/RH
+==============================================================
+
+  Data/Hora de execução : 10/03/2026 10:27:17
+  Duração total         : 0.50s (496ms)
+
+--------------------------------------------------------------
+  RESUMO DO PROCESSAMENTO
+--------------------------------------------------------------
+  Registros recebidos da API : 150
+  ✔  Adicionados             : 150
+  ↻  Atualizados             : 0
+  ✗  Ignorados               : 0
+     (menores de 18 ou dados inválidos)
+  ⚠  Erros registrados       : 0
+
+==============================================================
+  Arquivo gerado automaticamente pelo PayTrack Sync.
+==============================================================

@@ -1,0 +1,26 @@
+# Dependências
+node_modules/
+
+# Secrets — NUNCA fazer commit de .env com valores reais
+# Use .env.example como template
+.env
+.env.local
+.env.*.local
+
+# Banco de dados gerado em runtime
+data/
+
+# Relatórios gerados em runtime
+reports/
+
+# Coverage de testes
+coverage/
+
+# Arquivos de SO
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+

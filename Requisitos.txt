@@ -1,0 +1,76 @@
+Desafio Prático – Etapa Técnica de Integrações - Projeto iniciado em 10/03
+
+Chegou o momento do nosso desafio prático!
+O objetivo desta etapa é conhecer melhor suas habilidades técnicas, capacidade analítica e forma de estruturar soluções para integrações entre sistemas.
+
+Abaixo estão as instruções para o exercício 👇
+
+
+
+Desafio Técnico - Analista de Integrações.
+Objetivo
+Desenvolver uma aplicação em Node.js que simule a sincronização de dados de "Usuários/RH", processando e consolidando as informações.
+
+Requisitos Técnicos
+1 - Linguagem/Runtime: Node.js (versão 18+)
+
+2 - API a ser utilizada: RandomUser
+
+3 - Publicar no Git
+
+
+Parte 1: Consumo de API
+Desenvolva um script para consumir uma API externa e processar os dados recebidos. A API de exemplo para este teste é fornecida abaixo, e deve ser limitada em 150 usuários.
+
+https://randomuser.me/api/?results=150
+
+
+Parte 2: Persistência de Dados
+Implemente o armazenamento as informações processadas em um banco de dados local.
+
+Requisitos:
+
+Utilize um banco de dados SQLite ou outro de sua escolha.
+
+Crie uma tabela para armazenar os dados.
+
+Utilize o campo ‘email’ como chave única.
+
+Caso o colaborador já exista, atualize as informações.
+
+Restrições:
+
+Persista somente usuário maiores de 18 anos. Dica: Utilize a informação do campo “dob”.
+
+
+Parte 3: Relatório de Processamento
+Implemente um mecanismo para gerar um documento detalhado com o resultado do processamento da integração. Esse documento pode incluir:
+
+Quantidade de registros processados.
+
+Registros adicionados, atualizados ou ignorados.
+
+Detalhes de possíveis erros ou inconsistências.
+
+
+Critérios de Avaliação:
+Qualidade do Código:
+
+Organização, clareza e uso de boas práticas.
+
+Uso de Conceitos:
+
+Aplicação correta de integração e manipulação de APIs.
+
+Funcionalidade:
+
+A solução atende aos cenários descritos?
+
+Documentação:
+
+O README explica claramente como rodar e entender o projeto?
+
+
+ 📩 Obs.: Após concluir o teste, você deverá encaminhar o material finalizado para os e-mails abaixo.
+
+Você terá um prazo de 2 dias para realização e envio.
