@@ -4,7 +4,6 @@ Solução de integração de dados desenvolvida como desafio técnico para a vag
 
 O projeto consome a RandomUser API, aplica regras de negócio, persiste os dados em banco SQLite via sql.js e gera relatórios detalhados de cada execução.
 
-> Observação: os arquivos de apoio para apresentação foram removidos do repositório intencionalmente. Este README passa a ser a documentação principal do projeto.
 
 ---
 
